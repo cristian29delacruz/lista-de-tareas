@@ -1,4 +1,3 @@
-
 const nuevaTareaInput = document.getElementById('nuevaTareaInput');
 const agregarTareaBtn = document.getElementById('agregarTareaBtn');
 const listaDeTareas = document.getElementById('listaDeTareas');
